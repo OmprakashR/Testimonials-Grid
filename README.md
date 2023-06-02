@@ -60,7 +60,7 @@ Use this section to outline areas that you want to continue focusing on in futur
  
 ## Author
 
-- Website - [Testimonials-Grid]([https://www.your-site.com](https://omprakashr.github.io/Testimonials-Grid/))
+- Website - [Testimonials-Grid](https://www.your-site.com](https://omprakashr.github.io/Testimonials-Grid/)
 - Frontend Mentor - [@omprakashr](https://www.frontendmentor.io/profile/omprakashr)
  
   
