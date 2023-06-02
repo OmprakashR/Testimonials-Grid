@@ -23,9 +23,8 @@ Users should be able to:
 
 ### Links
 
- 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://omprakashr.github.io/Testimonials-Grid/)
-
+- Live Site URL: [Add live site URL here](https://omprakashr.github.io/Testimonials-Grid)
+- 
 ## My process
 
 ### Built with
@@ -60,7 +59,7 @@ Use this section to outline areas that you want to continue focusing on in futur
  
 ## Author
 
-- Website - [Testimonials-Grid](https://www.your-site.com](https://omprakashr.github.io/Testimonials-Grid/)
+- Website - [Testimonials-Grid](https://omprakashr.github.io/Testimonials-Grid)
 - Frontend Mentor - [@omprakashr](https://www.frontendmentor.io/profile/omprakashr)
  
   
