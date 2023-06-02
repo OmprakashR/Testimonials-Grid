@@ -14,6 +14,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+(https://github.com/OmprakashR/Testimonials-Grid/blob/main/Frontend-Mentor-Testimonials-Grid.png)
+(https://github.com/OmprakashR/Testimonials-Grid/blob/main/PageSpeed-Insights1.png)
 
 ### The challenge
 
@@ -45,12 +47,7 @@ To see how you can add code snippets, see below:
 ```html
 code Accessibility 
 ```
-```css
-.proud-of-this-css {
-  css - flex;
-  css - Grid;
-}
-```
+ 
  
 
 ### Continued development
