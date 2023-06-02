@@ -14,8 +14,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-(https://github.com/OmprakashR/Testimonials-Grid/blob/main/Frontend-Mentor-Testimonials-Grid.png)
-(https://github.com/OmprakashR/Testimonials-Grid/blob/main/PageSpeed-Insights1.png)
+<img  src="https://github.com/OmprakashR/Testimonials-Grid/blob/main/Frontend-Mentor-Testimonials-Grid.png">
+ <img src="https://github.com/OmprakashR/Testimonials-Grid/blob/main/PageSpeed-Insights1.png">
 
 ### The challenge
 
